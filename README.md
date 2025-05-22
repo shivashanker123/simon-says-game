@@ -46,6 +46,6 @@ This is a fun web-based **Simon Says Game** built using HTML, CSS, and JavaScrip
 To run locally:
 
 ```bash
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/shivashanker123/simon-says-game.git
 cd simon-says-game
 open index.html
