@@ -5,7 +5,7 @@ This is a fun web-based **Simon Says Game** built using HTML, CSS, and JavaScrip
 ---
 
 ## 🔗 Live Demo
-[Click here to play the game](https://github.com/shivashanker123/simon-says-game.git)
+[Click here to play the game](http://127.0.0.1:5500/simon-says-game/index.html)
 
 ---
 
