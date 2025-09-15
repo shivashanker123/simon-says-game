@@ -25,6 +25,8 @@ This is a fun web-based **Simon Says Game** built using HTML, CSS, and JavaScrip
 - Game-over animation and sound effects
 
 ---
+## Screenshots
+![Project Screenshot]("C:\Users\Shiva shanker\OneDrive\Desktop\Simon.jpg")
 
 ## 🧠 How to Play
 
