@@ -26,7 +26,7 @@ This is a fun web-based **Simon Says Game** built using HTML, CSS, and JavaScrip
 
 ---
 ## Screenshots
-![Project Screenshot]("C:\Users\Shiva shanker\OneDrive\Desktop\Simon.jpg")
+![Project Screenshot](C:\Users\Shiva shanker\OneDrive\Desktop\Simon.jpg)
 
 ## 🧠 How to Play
 
