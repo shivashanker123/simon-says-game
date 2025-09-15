@@ -17,12 +17,6 @@ This is a fun web-based **Simon Says Game** built using HTML, CSS, and JavaScrip
 
 ---
 
-## 📸 Screenshots
-
-*(You can add images later)*
-
----
-
 ## 🚀 Features
 
 - Interactive UI
